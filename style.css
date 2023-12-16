@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    width: 100vw;
+    height: 70vh;
+    display: grid;
+    place-items: center;
+    overflow: hidden;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/004/837/161/non_2x/watercolor-pastel-color-splash-on-paper-background-vector.jpg")
+}
+#reloj{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    border: 4px solid #e936ad;
+    color: #343635;
+    border-radius: 20%;
+    font-family: monospace;
+    font-size: 1.7rem;
+}
+#Texto{
+    text-align: center;
+}
